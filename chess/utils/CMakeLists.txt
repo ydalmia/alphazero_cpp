@@ -1,4 +1,4 @@
-set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
+# Author: Yash Dalmia
+# Date: June 14, 2021
 
 add_library(utils logging.cc)
